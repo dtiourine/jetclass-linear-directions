@@ -1,0 +1,35 @@
+# Python caches and generated test/lint output
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Environments and local configuration
+.venv/
+venv/
+env/
+.env
+.envrc
+
+# Packaging/build artifacts
+build/
+dist/
+*.egg-info/
+
+# Jupyter and editor files
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+
+# Local experiment data and model artifacts
+/data/
+/checkpoints/
+/runs/
+/plots/
+
+# Logs
+*.log

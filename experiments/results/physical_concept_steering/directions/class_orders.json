@@ -1,0 +1,50 @@
+{
+  "mass": [
+    "QCD",
+    "Wqq",
+    "Zqq",
+    "Hqql",
+    "Hbb",
+    "Tbl",
+    "Hcc",
+    "Hgg",
+    "H4q",
+    "Tbqq"
+  ],
+  "multiplicity": [
+    "Tbl",
+    "Hqql",
+    "Wqq",
+    "Zqq",
+    "QCD",
+    "Hcc",
+    "Hbb",
+    "H4q",
+    "Tbqq",
+    "Hgg"
+  ],
+  "charge": [
+    "Hgg",
+    "Tbqq",
+    "Hqql",
+    "Hbb",
+    "Hcc",
+    "H4q",
+    "Tbl",
+    "Zqq",
+    "QCD",
+    "Wqq"
+  ],
+  "displacement": [
+    "Hqql",
+    "Wqq",
+    "QCD",
+    "Zqq",
+    "Hcc",
+    "Tbl",
+    "H4q",
+    "Hgg",
+    "Tbqq",
+    "Hbb"
+  ]
+}
